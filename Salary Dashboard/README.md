@@ -1,5 +1,7 @@
 # Data Science Salary Dashboard (Excel)
 
+This is a project made while I was taking an Excel course by [Luke Barousse](https://github.com/lukebarousse)
+
 Interactive Excel dashboard that helps users explore **data-related job salaries and postings** by selecting:
 - **Job title**
 - **Country**
