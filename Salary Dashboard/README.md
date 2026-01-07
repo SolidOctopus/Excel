@@ -22,6 +22,8 @@ Based on the selected filters, the dashboard surfaces:
 4. Review the updated metrics and charts.
 5. If anything doesn’t update: **Data → Refresh All** (or refresh the sheet/pivots if prompted).
 
+![Dashboard](./Screenshots/SalaryDashboard.gif)
+
 ---
 
 ## What’s inside
@@ -42,4 +44,4 @@ Based on the selected filters, the dashboard surfaces:
 ![Dashboard](./Screenshots/SalaryDashboard1.png)
 ![Dashboard](./Screenshots/SalaryDashboard2.png)
 ![Dashboard](./Screenshots/SalaryDashboard3.png)
-![Dashboard](./Screenshots/SalaryDashboard.gif)
+
