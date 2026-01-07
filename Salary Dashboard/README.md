@@ -37,3 +37,6 @@ Based on the selected filters, the dashboard surfaces:
 - Results reflect the underlying dataset timeframe and coverage (not live market data).
 
 ---
+
+## Screenshots
+
