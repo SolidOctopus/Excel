@@ -39,4 +39,4 @@ Based on the selected filters, the dashboard surfaces:
 ---
 
 ## Screenshots
-
+![Salary Dashboard 1.png]
