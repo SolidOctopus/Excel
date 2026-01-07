@@ -39,4 +39,4 @@ Based on the selected filters, the dashboard surfaces:
 ---
 
 ## Screenshots
-![Dashboard](./Screenshots/Salary%20Dashboard%201.png)
+![Dashboard](./Screenshots/SalaryDashboard1.png)
