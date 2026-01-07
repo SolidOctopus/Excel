@@ -40,3 +40,5 @@ Based on the selected filters, the dashboard surfaces:
 
 ## Screenshots
 ![Dashboard](./Screenshots/SalaryDashboard1.png)
+![Dashboard](./Screenshots/SalaryDashboard2.png)
+![Dashboard](./Screenshots/SalaryDashboard3.png)
