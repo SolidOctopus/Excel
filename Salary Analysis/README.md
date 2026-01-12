@@ -22,10 +22,6 @@ This project answers four questions:
 1. Open `1_Project_Analysis.xlsx` in Excel (Microsoft 365 / Excel 2021+ recommended).
 2. Use slicers/filters (job title, region, etc.) to explore the views.
 3. If visuals don’t update: **Data → Refresh All**.
-![Salary_Analysis](./Screenshots/Salary_Analysis_1.png)
-![Salary_Analysis](./Screenshots/Salary_Analysis_2.png)
-![Salary_Analysis](./Screenshots/Salary_Analysis_3.png)
-![Salary_Analysis](./Screenshots/Salary_Analysis_4.png)
 
 ## What’s inside (tabs)
 - **Salary Analysis**: median salary by role (including US vs non-US comparison)
@@ -40,6 +36,12 @@ This project answers four questions:
 
 ## Data source
 Dataset provided through the associated Excel course and based on real-world job postings from 2023.
+
+## Screenshots
+![Salary_Analysis](./Screenshots/Salary_Analysis_1.png)
+![Salary_Analysis](./Screenshots/Salary_Analysis_2.png)
+![Salary_Analysis](./Screenshots/Salary_Analysis_3.png)
+![Salary_Analysis](./Screenshots/Salary_Analysis_4.png)
 
 ## Credits
 Built while following [Luke Barousse's Excel course](https://www.lukebarousse.com/excel).
