@@ -22,10 +22,10 @@ This project answers four questions:
 1. Open `1_Project_Analysis.xlsx` in Excel (Microsoft 365 / Excel 2021+ recommended).
 2. Use slicers/filters (job title, region, etc.) to explore the views.
 3. If visuals don’t update: **Data → Refresh All**.
-![Salary_Analysis](./Screenshots/Salary_Analysis1.png)
-![Salary_Analysis](./Screenshots/Salary_Analysis2.png)
-![Salary_Analysis](./Screenshots/Salary_Analysis3.png)
-![Salary_Analysis](./Screenshots/Salary_Analysis4.png)
+![Salary_Analysis](./Screenshots/Salary_Analysis_1.png)
+![Salary_Analysis](./Screenshots/Salary_Analysis_2.png)
+![Salary_Analysis](./Screenshots/Salary_Analysis_3.png)
+![Salary_Analysis](./Screenshots/Salary_Analysis_4.png)
 
 ## What’s inside (tabs)
 - **Salary Analysis**: median salary by role (including US vs non-US comparison)
